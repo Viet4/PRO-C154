@@ -9,4 +9,4 @@ use WASD or ARROW KEYS
 
 ---
 
-all models created by Viet4 (even the animated fish ><(((º>)
+all models created by Viet4 (even the animated fish)
